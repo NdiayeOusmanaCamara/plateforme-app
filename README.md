@@ -27,13 +27,13 @@ Ce projet est une application web de gestion permettant de gérer les **étudian
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/medbankole97/Suivi_formation-App.git
+git https://github.com/NdiayeOusmanaCamara/plateforme-app.git
 ```
 
 2. Accédez au répertoire du projet :
 
 ```bash
-cd Suivi_formation-App
+cd plateforme-app
 ```
 
 3. Installez les dépendances :
