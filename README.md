@@ -48,9 +48,7 @@ cd Suivi_formation-App
  npm run dev
 ```
 ##  Auteur
-[Mohamed Bankolé](https://github.com/medbankole97)
-
-[shyshasy](https://github.com/shyshasy)
+[N'Diaye Ousmane Camara](https://github.com/NdiayeOusmanaCamara)
 
 
 # plateforme_app
